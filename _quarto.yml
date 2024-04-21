@@ -135,3 +135,4 @@ format:
       sidebar-width: 400px
 editor: source
 
+lightbox: auto    # allows clicking on images to enlarge them
